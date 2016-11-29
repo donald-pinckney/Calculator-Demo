@@ -8,3 +8,5 @@ This code displays the basic fundamentals of iOS development, including:
   - Basic Swift
   - Actions
   - Outlets
+
+In addition, the slides are also included in this repository. Enjoy!
