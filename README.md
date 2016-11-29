@@ -9,4 +9,6 @@ This code displays the basic fundamentals of iOS development, including:
   - Actions
   - Outlets
 
-In addition, the slides are also included in this repository. Enjoy!
+In addition, the slides are also included in this repository.
+
+To open the demo project, just clone this repository, and open `Calculator.xcodeproj` in Xcode. Enjoy!
